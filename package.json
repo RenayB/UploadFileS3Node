@@ -1,0 +1,23 @@
+{
+  "name": "uploadfiles3node",
+  "version": "1.0.0",
+  "description": "Uploading a file to a S3 bucket using Node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenayB/UploadFileS3Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenayB/UploadFileS3Node/issues"
+  },
+  "homepage": "https://github.com/RenayB/UploadFileS3Node#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1293.0"
+  }
+}
